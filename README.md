@@ -2,7 +2,6 @@
 
 > **Intelligent Issue Resolver** - Automatically analyze GitHub issues and error logs, generate AI-powered fix PRs, and squash bugs 10x faster.
 
-![BugSquash AI Banner](./public/og-image.png)
 
 ## 🌟 Overview
 
