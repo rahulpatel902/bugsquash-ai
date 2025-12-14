@@ -14,16 +14,6 @@ BugSquash AI is an intelligent bug-fixing platform that leverages AI agents to a
 4. **Review** - Validate changes with CodeRabbit
 5. **Deploy** - Ship fixes with confidence
 
-## 🎯 Hackathon Prize Tracks
-
-This project targets multiple AssembleHack'25 sponsor awards:
-
-| Award | Sponsor | Integration |
-|-------|---------|-------------|
-| ⚡ Infinity Build | Cline CLI | Autonomous fix generation |
-| 🐰 Captain Code | CodeRabbit | Automated PR reviews |
-| 🚀 Stormbreaker | Vercel | Production deployment |
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
@@ -120,21 +110,9 @@ bugsquash-ai/
 └── package.json
 ```
 
-## 🎥 Demo Video
-
-[Watch the 2-minute demo →](#)
-
 ## 📄 License
 
 MIT License - feel free to use this project for learning and inspiration.
-
-## 🙏 Acknowledgments
-
-Built for **AssembleHack'25** with:
-- [Cline](https://docs.cline.bot/) - AI coding assistant
-- [CodeRabbit](https://coderabbit.ai/) - AI code reviews  
-- [Vercel](https://vercel.com/) - Deployment platform
-- [WeMakeDevs](https://www.wemakedevs.org/) - Community
 
 ---
 
