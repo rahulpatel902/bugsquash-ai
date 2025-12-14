@@ -378,7 +378,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-center text-xs text-muted mt-8">
-            Built for AssembleHack&apos;25 · Powered by Cline, CodeRabbit & Vercel
+            © 2024 BugSquash AI. All rights reserved.
           </p>
         </div>
       </footer>
