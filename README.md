@@ -114,7 +114,3 @@ bugsquash-ai/
 MIT License - feel free to use this project for learning and inspiration.
 
 ---
-
-<p align="center">
-  Made with 💚 for AssembleHack'25
-</p>
